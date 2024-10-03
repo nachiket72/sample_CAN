@@ -1,3 +1,9 @@
 [submodule "CANopenNode"]
 	path = CANopenNode
 	url = https://github.com/CANopenNode/CANopenNode
+[submodule "source"]
+	path = source
+	url = https://github.com/CANopenNode/CANopenNode.git
+[submodule "source1"]
+	path = source1
+	url = https://github.com/CANopenNode/CANopenNode.git
